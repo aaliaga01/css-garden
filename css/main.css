@@ -130,6 +130,12 @@ p{
 	text-align: justify;
 }
 
+#zen-preamble p:first-letter, #zen-supporting p:first-letter{
+	font-family: OpenSans-Light;
+	font-size: 21px;
+	color: #477200;
+}
+
 ul li {
 	list-style: none;
 	font-size: 13px;
